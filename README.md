@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# 🔲 Photo Editor With React
+# 🔲 CodePen Clone With React
 
 <p align="center">
   <img src="https://github.com/zumrudu-anka/react-codepen-clone/blob/master/presentation/react-codepen-clone.gif"/>
