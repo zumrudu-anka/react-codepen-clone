@@ -7,6 +7,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 </p>
 <hr>
 
+### Installation
+
+- Clone the repo to your local machine `git clone https://github.com/zumrudu-anka/react-codepen-clone.git`
+- Go to the project folder
+- Run `npm install` to install packages
+
 ## Available Scripts
 
 In the project directory, you can run:
